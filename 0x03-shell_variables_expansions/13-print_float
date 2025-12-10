@@ -1,2 +1,6 @@
 #!/bin/bash
-printf "%.2f\n" "$NUM"
+read A
+read B
+printf "%.2f\n" "$A"
+printf "%.2f\n" "$B"
+
